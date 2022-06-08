@@ -7,7 +7,7 @@
 3.JS
 
 
-##Slider [DEMO](https://webaleksandr.github.io/Mini__slider-project/)
+## Slider [DEMO](https://webaleksandr.github.io/Mini__slider-project/)
 
 ## Слайдер
 1. Автоматически переключает слайды
