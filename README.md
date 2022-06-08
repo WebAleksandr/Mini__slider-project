@@ -5,7 +5,7 @@
 1.HTML
 2.CSS
 3.JS
-
+##Slider [DEMO](https://webaleksandr.github.io/Mini__slider-project/)
 ## Слайдер
 1. Автоматически переключает слайды
 2. Переключение по dots
